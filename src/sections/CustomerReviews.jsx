@@ -3,7 +3,7 @@ import { reviews } from "../constants";
 
 const CustomerReviews = () => {
   return (
-    <section className='max-container bg-zinc-900 text-white'>
+    <section className='max-container bg-zinc-900 text-white rounded-lg py-4'>
       <h3 className='font-palanquin text-center text-4xl font-bold'>
         What Our
         <span className='text-coral-red'> Customers </span>

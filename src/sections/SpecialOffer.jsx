@@ -35,7 +35,7 @@ const SpecialOffer = () => {
             label='Learn more'
             backgroundColor='bg-white'
             borderColor='border-slate-gray'
-            textColor='text-slate-gray'
+            textColor='text-black'
           />
         </div>
       </div>
