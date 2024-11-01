@@ -1,15 +1,10 @@
-Nike Website 
+# Nike Landing Page
 
-This project is a clone of the Nike website built using React and Tailwind CSS. The goal is to replicate the design and functionality of the Nike website to practice frontend development skills. The project utilizes React for building the UI components and Tailwind CSS for styling.
+A high-performance, visually captivating **Nike landing page** built with **React** and **Vite**. This project replicates the essence of Nike's brand, combining sleek UI elements and smooth interactions to showcase products and promotions.
 
-Features:
-Responsive design for various screen sizes.
-Product listings with images, descriptions, and prices.
-Interactive components such as sliders, dropdowns, and modals.
-Integration with APIs for fetching product data (optional, if applicable).
-Navigation bar with dropdown menus and search functionality.
-Technologies Used:
-React: A JavaScript library for building user interfaces.
-Tailwind CSS: A utility-first CSS framework for rapid UI development.
-JavaScript/ES6: Modern JavaScript features for application logic.
-HTML/CSS: Basics for structuring and styling web pages.
+### Features
+- **Dynamic product showcase** with bold visuals and animations.
+- **Responsive design** for seamless experience on all devices.
+- **Optimized performance** using Vite for fast load times.
+
+This project demonstrates the power of modern web development tools for creating engaging, high-quality landing pages.
